@@ -1,0 +1,58 @@
+Type,State,State Code,Capital,Since,Region,Division
+State,Alabama,AL,Montgomery,1846,South,East South Central
+State,Alaska,AK,Juneau,1906,West,Pacific
+State,Arizona,AZ,Phoenix,1912,West,Mountain
+State,Arkansas,AR,Little Rock,1821,South,West South Central
+State,California,CA,Sacramento,1854,West,Pacific
+State,Colorado,CO,Denver,1867,West,Mountain
+State,Connecticut,CT,Hartford,1875,Northeast,New England
+State,Delaware,DE,Dover,1777,South,South Atlantic
+State,Florida,FL,Tallahassee,1824,South,South Atlantic
+State,Georgia,GA,Atlanta,1868,South,South Atlantic
+State,Hawaii,HI,Honolulu,1845,West,Pacific
+State,Idaho,ID,Boise,1865,West,Mountain
+State,Illinois,IL,Springfield,1837,Midwest,East North Central
+State,Indiana,IN,Indianapolis,1825,Midwest,East North Central
+State,Iowa,IA,Des Moines,1857,Midwest,West North Central
+State,Kansas,KS,Topeka,1856,Midwest,West North Central
+State,Kentucky,KY,Frankfort,1792,South,East South Central
+State,Louisiana,LA,Baton Rouge,1880,South,West South Central
+State,Maine,ME,Augusta,1832,Northeast,New England
+State,Maryland,MD,Annapolis,1694,South,South Atlantic
+State,Massachusetts,MA,Boston,1630,Northeast,New England
+State,Michigan,MI,Lansing,1847,Midwest,East North Central
+State,Minnesota,MN,Saint Paul,1849,Midwest,West North Central
+State,Mississippi,MS,Jackson,1821,South,East South Central
+State,Missouri,MO,Jefferson City,1826,Midwest,West North Central
+State,Montana,MT,Helena,1875,West,Mountain
+State,Nebraska,NE,Lincoln,1867,Midwest,West North Central
+State,Nevada,NV,Carson City,1861,West,Mountain
+State,New Hampshire,NH,Concord,1808,Northeast,New England
+State,New Jersey,NJ,Trenton,1784,Northeast,Middle Atlantic
+State,New Mexico,NM,Santa Fe,1610,West,Mountain
+State,New York,NY,Albany,1797,Northeast,Middle Atlantic
+State,North Carolina,NC,Raleigh,1792,South,South Atlantic
+State,North Dakota,ND,Bismarck,1883,Midwest,West North Central
+State,Ohio,OH,Columbus,1816,Midwest,East North Central
+State,Oklahoma,OK,Oklahoma City,1910,South,West South Central
+State,Oregon,OR,Salem,1855,West,Pacific
+State,Pennsylvania,PA,Harrisburg,1812,Northeast,Middle Atlantic
+State,Rhode Island,RI,Providence,1900,Northeast,New England
+State,South Carolina,SC,Columbia,1786,South,South Atlantic
+State,South Dakota,SD,Pierre,1889,Midwest,West North Central
+State,Tennessee,TN,Nashville,1826,South,East South Central
+State,Texas,TX,Austin,1839,South,West South Central
+State,Utah,UT,Salt Lake City,1858,West,Mountain
+State,Vermont,VT,Montpelier,1805,Northeast,New England
+State,Virginia,VA,Richmond,1780,South,South Atlantic
+State,Washington,WA,Olympia,1853,West,Pacific
+State,West Virginia,WV,Charleston,1885,South,South Atlantic
+State,Wisconsin,WI,Madison,1838,Midwest,East North Central
+State,Wyoming,WY,Cheyenne,1890,West,Mountain
+Outlying Area,American Samoa,AS,Pago Pago,1899,,
+Outlying Area,Guam,GU,Hagåtña,1898,,
+Outlying Area,Northern Mariana Islands,MP,Saipan,1947,,
+Outlying Area,Puerto Rico,PR,San Juan,1898,,
+Outlying Area,"Virgin Islands, U.S.",VI,Charlotte Amalie,1917,,
+District,District of Columbia,DC,District of Columbia,1790,South,South Atlantic
+Outlying Area,United States Minor Outlying Islands,UM,Wake Atoll,1936,,
